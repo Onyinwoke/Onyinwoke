@@ -3,7 +3,7 @@
 
 # Hi, I'm Onyinye Nwoke
 
-### Aspiring Cloud & DevOps Engineer | Infrastructure Automation | CI/CD
+### Certified Cloud & DevOps Engineer | Infrastructure Automation | CI/CD
 
 **Turning operational challenges into opportunities for automation.**
 
