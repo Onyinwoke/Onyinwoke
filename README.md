@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Onyinye Nwoke 👋
+# Hi, I'm Onyinye Nwoke
 
 ### Aspiring Cloud & DevOps Engineer | Infrastructure Automation | CI/CD
 
