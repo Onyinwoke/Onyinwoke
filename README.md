@@ -17,9 +17,11 @@
 ---
 
 
-From optimizing supply chains to automating cloud infrastructure. My focus remains the same, reducing waste, managing risk, and delivering measurable results. My background in procurement, production planning, Lean Management, and Six Sigma has shaped how I approach efficiency, cost optimization, and continuous improvement. 
+From optimizing supply chains to automating cloud infrastructure. My focus remains the same, reducing waste, managing risk, and delivering measurable results. My background in procurement, production planning, Lean Management, and Six Sigma has shaped my approach to efficiency, cost optimization, and continuous improvement. 
+ 
 
 Now, I am applying that mindset to Cloud Engineering and DevOps through hands-on projects using AWS, Linux, Terraform, Ansible, Git, CI/CD, and Agentic AI. Combining commercial insight with infrastructure automation to build solutions that are more efficient, reliable, secure, and scalable. Different tools,  same problem solving mindset and better outcomes.
+
 ---
 
 ## 🛠️ Stack
