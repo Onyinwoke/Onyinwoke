@@ -59,7 +59,7 @@ Now, I am applying that mindset to Cloud Engineering and DevOps through hands-on
 </tr>
 </table>
 
-*These badges represent technologies in my learning and practice journey, not a claim of professional proficiency in every tool.*
+
 
 ---
 
