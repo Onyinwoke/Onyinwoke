@@ -16,14 +16,10 @@
 
 ---
 
-## 👩🏽‍💻 About Me
 
-I bring a background in procurement and supply chain management into my growing interest in cloud computing, DevOps, and infrastructure automation. I am developing practical skills by working through technical assignments, cloud labs, and hands-on projects.
+From optimizing supply chains to automating cloud infrastructure. My focus remains the same, reducing waste, managing risk, and delivering measurable results. My background in procurement, production planning, Lean Management, and Six Sigma has shaped how I approach efficiency, cost optimization, and continuous improvement. 
 
-My goal is to automate infrastructure and deployments, improve reliability and security, and explore how cloud technology can solve real-world operational problems.
-
-I believe technical growth comes from building, troubleshooting, documenting, and learning from what does not work the first time.
-
+Now, I am applying that mindset to Cloud Engineering and DevOps through hands-on projects using AWS, Linux, Terraform, Ansible, Git, CI/CD, and Agentic AI. Combining commercial insight with infrastructure automation to build solutions that are more efficient, reliable, secure, and scalable. Different tools,  same problem solving mindset and better outcomes.
 ---
 
 ## 🛠️ Stack
