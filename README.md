@@ -112,6 +112,18 @@ I am particularly interested in opportunities where cloud engineering, DevOps, a
 
 ---
 
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Onyinwoke&show_icons=true&theme=default&hide_border=true" alt="Onyinye's GitHub Statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onyinwoke&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
+
+</div>
+
 ## 🤝 Let's Connect
 
 I welcome conversations with fellow learners, cloud and DevOps practitioners, mentors, and open-source contributors.
