@@ -112,17 +112,21 @@ I am particularly interested in opportunities where cloud engineering, DevOps, a
 
 ---
 
+
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Onyinwoke&show_icons=true&theme=default&hide_border=true" alt="Onyinye's GitHub Statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Onyinwoke&show_icons=false&hide_rank=true&hide_border=true&title_color=2563eb&text_color=555555&bg_color=ffffff&include_all_commits=true" alt="GitHub Statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onyinwoke&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onyinwoke&layout=compact&langs_count=5&hide_border=true&title_color=2563eb&text_color=555555&bg_color=ffffff" alt="Most Used Languages" />
 
 </div>
+
+
+
 
 ## 🤝 Let's Connect
 
