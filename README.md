@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 # Hi, I'm Onyinye Nwoke
 
@@ -16,11 +15,9 @@
 
 ---
 
+From optimizing supply chains to automating cloud infrastructure. My focus remains the same, reducing waste, managing risk, and delivering measurable results. My background in procurement, production planning, Lean Management, and Six Sigma has shaped my approach to efficiency, cost optimization, and continuous improvement.
 
-From optimizing supply chains to automating cloud infrastructure. My focus remains the same, reducing waste, managing risk, and delivering measurable results. My background in procurement, production planning, Lean Management, and Six Sigma has shaped my approach to efficiency, cost optimization, and continuous improvement. 
- 
-
-Now, I am applying that mindset to Cloud Engineering and DevOps through hands-on projects using AWS, Linux, Terraform, Ansible, Git, CI/CD, and Agentic AI. Combining commercial insight with infrastructure automation to build solutions that are more efficient, reliable, secure, and scalable. Different tools,  same problem solving mindset and better outcomes.
+Now, I am applying that mindset to Cloud Engineering and DevOps through hands-on projects using AWS, Linux, Terraform, Ansible, Git, CI/CD, and Agentic AI. Combining commercial insight with infrastructure automation to build solutions that are more efficient, reliable, secure, and scalable. Different tools, same problem solving mindset and better outcomes.
 
 ---
 
@@ -58,8 +55,6 @@ Now, I am applying that mindset to Cloud Engineering and DevOps through hands-on
 </td>
 </tr>
 </table>
-
-
 
 ---
 
@@ -112,24 +107,25 @@ I am particularly interested in opportunities where cloud engineering, DevOps, a
 
 ---
 
-
----
-
 ## 📊 GitHub Activity Dashboard
 
 <div align="center">
 
-<!-- GitHub statistics -->
-<img width="49%" src="https://ghstats.dev/api/card?username=Onyinwoke&theme=light" alt="GitHub Statistics" />
+<!-- GitHub overview statistics -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Onyinwoke&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
 
 <!-- Contribution streak -->
-<img width="49%" src="https://streak-stats.demolab.com/?user=Onyinwoke&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Onyinwoke&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
-<!-- Language chart -->
-<img width="60%" src="https://ghstats.dev/api/languages?username=Onyinwoke&layout=donut&theme=light&max_langs=6" alt="GitHub Language Distribution" />
+<!-- Top programming languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onyinwoke&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Programming Languages"/>
+
+<!-- Contribution activity graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Onyinwoke&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph"/>
 
 </div>
 
+---
 
 ## 🤝 Let's Connect
 
